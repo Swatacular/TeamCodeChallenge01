@@ -1,0 +1,5 @@
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\TeamCodeChallenge\bin\Debug\TeamCodeChallenge.exe.config
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\TeamCodeChallenge\bin\Debug\TeamCodeChallenge.exe
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\TeamCodeChallenge\bin\Debug\TeamCodeChallenge.pdb
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\TeamCodeChallenge\obj\Debug\TeamCodeChallenge.exe
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab08\TeamCodeChallenge\obj\Debug\TeamCodeChallenge.pdb
